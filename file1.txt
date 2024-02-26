@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This file is from main branch
++++++++++++++++++++++++++
+This is first file from dev1
+>>>>>>> dev1
