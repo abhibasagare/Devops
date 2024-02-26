@@ -7,3 +7,4 @@ This is first file from dev1
 =======
 This is first file from dev2
 >>>>>>> dev2
+new
